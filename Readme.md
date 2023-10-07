@@ -1,5 +1,7 @@
 # Registration Form in Node.js Saving Data to MongoDB
 
+![image](https://github.com/anupam-singh88/node-registration-form/assets/89381022/556e02b2-9d11-48b9-baff-f7aadc27c3e2)
+
 ## Description
 This is a registration form application built with Node.js, Express, and MongoDB. It performs front-end validations like password validation and email validation before saving data to the MongoDB database.
 
