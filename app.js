@@ -205,7 +205,8 @@ async function postData() {
     let passwordVal = password.value;
     let genderValue = getGenderValue();
 
-    let data = await fetch('http://localhost:5500/savedata', {
+    // let data = await fetch('http://localhost:5500/savedata', {
+    let data = await fetch('https://registration-form-node-backend.onrender.com/savedata', {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
